@@ -39,7 +39,7 @@ Entidades identificadas:
 → alaranjada → CARACTERISTICA_SENSORIAL_COR
 
 **Tecnologias e ferramentas usadas:**
-`Python`, `spaCy`, `TensorFlow`, `Keras`, `BiLSTM`, `NER`, `pandas`, `scikit-learn`
+`Python`, `spaCy`, `TensorFlow`, `Keras`, `BiLSTM`, `NER`, `pandas`, `scikit-learn`, `numpy`
 
 ---
 
