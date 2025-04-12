@@ -30,9 +30,10 @@ Projeto completo de reconhecimento de entidades nomeadas (NER) em textos que men
 [Raw Text] → [Pré-processamento] → [Dataset Anotado] → [Treinamento do Modelo] → [Entidades Reconhecidas]
 
 **Exemplo:**
-"A Cachaça 51 é muito conhecida, mas a Weber Haus também é excelente."
-→ Cachaça 51 → MARCA
-→ Weber Haus → MARCA
+"A Cachaça 51 é muito conhecida, tem um sabor adocicado e fica transparente no copo."
+ → Cachaça 51 → NOME_BEBIDA
+ → adocicado → CARACTERISTICA_SENSORIAL_SABOR
+ → transparente → CARACTERISTICA_SENSORIAL_COR
 
 **Tecnologias e ferramentas usadas:**
 `Python`, `spaCy`, `TensorFlow`, `Keras`, `BiLSTM`, `NER`, `pandas`, `scikit-learn`
