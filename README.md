@@ -6,6 +6,11 @@ Este portfólio reúne meus projetos principais com foco em aplicações reais.
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/Licença-MIT-green)
+![Dataset](https://img.shields.io/badge/Dataset-Customizado-brightgreen)
+
 ## 1. Reconhecimento de Entidades Nomeadas (NER) para Bebidas
 
 **Modelo com Deep Learning:**  
