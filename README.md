@@ -30,6 +30,7 @@ Projeto completo de reconhecimento de entidades nomeadas (NER) em textos que men
 Texto de entrada:
 "A Cachaça Rio do Engenho Top 45 é muito conhecida, pois tem um sabor adocicado e uma coloração alaranjada."
 
+Entidades identificadas:
 → Cachaça 51 → NOME_BEBIDA
 
 → adocicado → CARACTERISTICA_SENSORIAL_SABOR
