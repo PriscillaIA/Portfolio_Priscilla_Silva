@@ -25,6 +25,8 @@ Projeto completo de reconhecimento de entidades nomeadas (NER) em textos que men
 **Tecnologias e ferramentas usadas:**
 `Python`, `spaCy`, `TensorFlow`, `Keras`, `BiLSTM`, `NER`, `pandas`, `scikit-learn`
 
+![Fluxo do Projeto NER](caminho/para/imagem.png)
+
 ---
 
 *(Mais projetos serão adicionados em breve!)*
