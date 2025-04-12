@@ -22,10 +22,16 @@ Projeto completo de reconhecimento de entidades nomeadas (NER) em textos que men
 - Treinamento de um modelo BiLSTM-CRF
 - Avaliação dos resultados
 
+**Fluxo:**
+[Raw Text] → [Pré-processamento] → [Dataset Anotado] → [Treinamento do Modelo] → [Entidades Reconhecidas]
+
+**Exemplo:**
+"A Cachaça 51 é muito conhecida, mas a Weber Haus também é excelente."
+→ Cachaça 51 → MARCA
+→ Weber Haus → MARCA
+
 **Tecnologias e ferramentas usadas:**
 `Python`, `spaCy`, `TensorFlow`, `Keras`, `BiLSTM`, `NER`, `pandas`, `scikit-learn`
-
-![Fluxo do Projeto NER](caminho/para/imagem.png)
 
 ---
 
