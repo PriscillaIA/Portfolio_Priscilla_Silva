@@ -33,7 +33,9 @@ Projeto completo de reconhecimento de entidades nomeadas (NER) em textos que men
 "A Cachaça 51 é muito conhecida, tem um sabor adocicado e fica transparente no copo."
 
 → Cachaça 51 → NOME_BEBIDA
+
 → adocicado → CARACTERISTICA_SENSORIAL_SABOR
+
 → transparente → CARACTERISTICA_SENSORIAL_COR
 
 **Tecnologias e ferramentas usadas:**
