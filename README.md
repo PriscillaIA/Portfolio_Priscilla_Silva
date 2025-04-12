@@ -1,3 +1,5 @@
+Email: priscillaufpa@gmail.com
+
 # Portfólio de Projetos em Ciência de Dados e IA
 
 Olá! Me Priscilla Silva, apaixonada por dados, inteligência artificial, IA generativa, PLN, NLP, machine learning tradicional, deep learning, modelos de linguagem de grande escala (LLM), etc. Tenho experiência prática em pré-processamento de dados, construção de datasets, treinamento de modelos de machine learning tradicionais, deep learning e LLMs.
